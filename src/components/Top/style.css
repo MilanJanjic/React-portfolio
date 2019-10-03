@@ -1,0 +1,27 @@
+.top {
+    background-color: rgb(38, 0, 88);
+}
+
+.top p {
+    color: white;
+    font-size: 14px;
+    margin: auto 0;
+}
+
+.top-text {
+    font-weight: bold;
+}
+
+.flag {
+    padding: 0 2px;
+    margin: 0;
+    border: none;
+    background-color: transparent !important;
+    cursor: pointer;
+    z-index: 5;
+    position: relative;
+}
+
+.flag span {
+    z-index: -1;
+}

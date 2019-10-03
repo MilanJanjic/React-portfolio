@@ -1,0 +1,7 @@
+.btn-custom {
+    background-color: rgb(60, 0, 138);
+    border: 1px solid white;
+    color: white;
+    margin: 0;
+    border-radius: 100px;
+}
